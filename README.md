@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning embedded linux 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: male
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a Valorent Player 
 
 <!---
